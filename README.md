@@ -1,1 +1,5 @@
-# terceiroProjeto_perguntas_e_respostas
+# Terceiro Projeto p
+
+Site de perguntas e respostas estilos yahoo respostas
+
+Utilizando Express, MySQL 
